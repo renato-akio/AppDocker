@@ -1,0 +1,16 @@
+C:\ef-code-first\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\ef-code-first\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.2\appsettings.json
+C:\ef-code-first\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\ef-code-first\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.2\EFCoreCodeFirstSample.deps.json
+C:\ef-code-first\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.2\EFCoreCodeFirstSample.runtimeconfig.json
+C:\ef-code-first\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.2\EFCoreCodeFirstSample.runtimeconfig.dev.json
+C:\ef-code-first\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.2\EFCoreCodeFirstSample.dll
+C:\ef-code-first\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.2\EFCoreCodeFirstSample.pdb
+C:\ef-code-first\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.2\EFCoreCodeFirstSample.csprojAssemblyReference.cache
+C:\ef-code-first\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.2\EFCoreCodeFirstSample.RazorAssemblyInfo.cache
+C:\ef-code-first\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.2\EFCoreCodeFirstSample.RazorAssemblyInfo.cs
+C:\ef-code-first\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.2\EFCoreCodeFirstSample.AssemblyInfoInputs.cache
+C:\ef-code-first\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.2\EFCoreCodeFirstSample.AssemblyInfo.cs
+C:\ef-code-first\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.2\EFCoreCodeFirstSample.RazorTargetAssemblyInfo.cache
+C:\ef-code-first\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.2\EFCoreCodeFirstSample.dll
+C:\ef-code-first\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.2\EFCoreCodeFirstSample.pdb

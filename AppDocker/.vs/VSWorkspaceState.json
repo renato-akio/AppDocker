@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models",
+    "\\Models\\DataManager",
+    "\\Models\\Repository"
+  ],
+  "SelectedNode": "\\EFCoreCodeFirstSample.csproj",
+  "PreviewInSolutionExplorer": false
+}

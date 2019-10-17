@@ -1,0 +1,16 @@
+C:\AppDocker\AppDocker\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\AppDocker\AppDocker\bin\Debug\netcoreapp2.2\appsettings.json
+C:\AppDocker\AppDocker\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\AppDocker\AppDocker\bin\Debug\netcoreapp2.2\AppDocker.deps.json
+C:\AppDocker\AppDocker\bin\Debug\netcoreapp2.2\AppDocker.runtimeconfig.json
+C:\AppDocker\AppDocker\bin\Debug\netcoreapp2.2\AppDocker.runtimeconfig.dev.json
+C:\AppDocker\AppDocker\bin\Debug\netcoreapp2.2\AppDocker.dll
+C:\AppDocker\AppDocker\bin\Debug\netcoreapp2.2\AppDocker.pdb
+C:\AppDocker\AppDocker\obj\Debug\netcoreapp2.2\AppDocker.csprojAssemblyReference.cache
+C:\AppDocker\AppDocker\obj\Debug\netcoreapp2.2\AppDocker.AssemblyInfoInputs.cache
+C:\AppDocker\AppDocker\obj\Debug\netcoreapp2.2\AppDocker.AssemblyInfo.cs
+C:\AppDocker\AppDocker\obj\Debug\netcoreapp2.2\AppDocker.dll
+C:\AppDocker\AppDocker\obj\Debug\netcoreapp2.2\AppDocker.pdb
+C:\AppDocker\AppDocker\obj\Debug\netcoreapp2.2\AppDocker.RazorAssemblyInfo.cache
+C:\AppDocker\AppDocker\obj\Debug\netcoreapp2.2\AppDocker.RazorAssemblyInfo.cs
+C:\AppDocker\AppDocker\obj\Debug\netcoreapp2.2\AppDocker.RazorTargetAssemblyInfo.cache
